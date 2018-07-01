@@ -4,7 +4,7 @@
 [podcasturl]: https://www.linuxserver.io/podcast/
 [appurl]: https://github.com/Jackett/Jackett
 [hub]: https://hub.docker.com/r/linuxserver/jackett/
-
+![WCKD](https://wckd.app/wp-content/uploads/2018/05/logo_resize.png)
 [![linuxserver.io](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/linuxserver_medium.png)][linuxserverurl]
 
 The [LinuxServer.io][linuxserverurl] team brings you another container release featuring easy user mapping and community support. Find us for support at:
